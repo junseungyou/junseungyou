@@ -17,23 +17,25 @@ For collaboration inquiries or more information about my research, please feel f
 
 Publications
 ------
-- <span style="font-size: 14px;">**BASTAG: Byte-level Access Control on Shared Memory using ARM Memory Tagging Extension (to appear)**</span><br>
-  <span style="font-size: 13px;">_**Junseung You**_, Jiwon Seo, Kyeongryong Lee, Yeongpil Cho, and Yunheung Paek</span><br>
-  <span style="font-size: 13px;">ACM Conference on Computer and Communications Security (**CCS**) 2025</span><br>
-- **KVSEV: A Secure In-Memmory Key-Value Store with Secure Encrypted Virtualization**
-  _**Junseung You**_,Kyeongryong Lee,Hyungon Moon,Yeongpil Cho, and Yunheung Paek
-  ACM Symposium on Cloud Computing 2023
-- **ZOMETAG: Zone-based Memory Tagging for Fast, Deterministic Detection of Spatial Memory Violations on ARM**
-  Jiwon Seo⭑,_**Junseung You⭑**_,Donghyun Kwon,Yeongpil Cho, and Yunheung Paek
-  IEEE Transactions on Information Forensics and Security (**TIFS**)
-- **SFITAG: Efficient Software Fault Isolation with Memory Tagging for ARM Kernel Extensions**
-  Jiwon Seo,_**Junseung You**_,Yungi Cho,Yeongil Cho,Donghyun Kwon, and Yunheung Paek
-- **Enhancing a Lock-and-Key Scheme with MTE to Mitigate Use-After-Frees**
-  Inyoung Bang,Martin Kayondo,_**Junseung You**_,Donghyun Kwon,Yeongpil Cho, and Yunheung Paek
-  IEEE Access
-- **SBGen: A Framework to Efficiently Supply Runtime Information for a Learning-based HIDS for Multiple Virtual Machines**
-  Jiwon Seo,Inyoung Bang,_**Junseung You**_,Yeongil Cho, and Yunheung Paek
-  IEEE Access
+- <span style="font-size: 18px;">**BASTAG: Byte-level Access Control on Shared Memory using ARM Memory Tagging Extension _(to appear)_**</span><br>
+  <span style="font-size: 16px;">_**Junseung You**_, Jiwon Seo, Kyeongryong Lee, Yeongpil Cho, and Yunheung Paek</span><br>
+  <span style="font-size: 16px;">ACM Conference on Computer and Communications Security (**CCS**) 2025</span><br>
+- <span style="font-size: 18px;">**KVSEV: A Secure In-Memmory Key-Value Store with Secure Encrypted Virtualization**</span><br>
+  <span style="font-size: 16px;">_**Junseung You**_,Kyeongryong Lee,Hyungon Moon,Yeongpil Cho, and Yunheung Paek</span><br>
+  <span style="font-size: 16px;">ACM Symposium on Cloud Computing 2023 (**SoCC**)</span><br>
+- <span style="font-size: 18px;">**ZOMETAG: Zone-based Memory Tagging for Fast, Deterministic Detection of Spatial Memory Violations on ARM**</span><br>
+  <span style="font-size: 16px;">Jiwon Seo⭑,_**Junseung You⭑**_,Donghyun Kwon,Yeongpil Cho, and Yunheung Paek</span><br>
+  <span style="font-size: 16px;">IEEE Transactions on Information Forensics and Security (**TIFS**)</span><br>
+  ⭑ co-first authors
+- <span style="font-size: 18px;">**SFITAG: Efficient Software Fault Isolation with Memory Tagging for ARM Kernel Extensions**</span><br>
+  <span style="font-size: 16px;">Jiwon Seo,_**Junseung You**_,Yungi Cho,Yeongil Cho,Donghyun Kwon, and Yunheung Paek</span><br>
+  <span style="font-size: 16px;">ACM Asia Conference on Computer and Communications Security (**ASIACCS**)</span><br>
+- <span style="font-size: 18px;">**Enhancing a Lock-and-Key Scheme with MTE to Mitigate Use-After-Frees**</span><br>
+  <span style="font-size: 16px;">Inyoung Bang,Martin Kayondo,_**Junseung You**_,Donghyun Kwon,Yeongpil Cho, and Yunheung Paek</span><br>
+  <span style="font-size: 16px;">IEEE Access</span><br>
+- <span style="font-size: 18px;">**SBGen: A Framework to Efficiently Supply Runtime Information for a Learning-based HIDS for Multiple Virtual Machines**</span><br>
+  <span style="font-size: 16px;">Jiwon Seo,Inyoung Bang,_**Junseung You**_,Yeongil Cho, and Yunheung Paek</span><br>
+  <span style="font-size: 16px;">IEEE Access</span><br>
 
 
 Education
