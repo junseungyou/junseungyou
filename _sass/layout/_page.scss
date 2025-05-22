@@ -18,7 +18,7 @@
 
 .page {
   @include breakpoint($large) {
-    max-width: 1280px;
+    max-width: 1024px;
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
@@ -26,6 +26,7 @@
 
   .page__inner-wrap {
     @include full();
+    max-width: 1024px;
 
     .page__content,
     .page__meta,
