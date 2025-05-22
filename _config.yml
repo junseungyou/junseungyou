@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Junseung You"
+title                    : "Junseung You (유준승)"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://junseungyou.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Junseung You"
+description              : &description "Software and System Security"
+url                      : "https://junseungyou.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junseungyou/junseungyou.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "jsyou.jpg"
   name             : "Junseung You (유준승)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student\nSoftware and System Security"
+  bio              : "Ph.D. Student @SNU"
   location         : "Seoul"
   employer         : "Seoul National University"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/junseungyou"
+  github           : "junseungyou"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
