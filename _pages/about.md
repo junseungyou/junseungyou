@@ -15,9 +15,9 @@ For collaboration inquiries or more information about my research, please feel f
 
 Publications
 ------
-- <span style="font-size: 16px;">**BASTAG: Byte-level Access Control on Shared Memory using ARM Memory Tagging Extension (to appear)**</span><br>
-  <span style="font-size: 14px;">_**Junseung You**_, Jiwon Seo, Kyeongryong Lee, Yeongpil Cho, and Yunheung Paek</span><br>
-  <span style="font-size: 14px;">ACM Conference on Computer and Communications Security (**CCS**) 2025</span><br>
+- <span style="font-size: 14px;">**BASTAG: Byte-level Access Control on Shared Memory using ARM Memory Tagging Extension (to appear)**</span><br>
+  <span style="font-size: 13px;">_**Junseung You**_, Jiwon Seo, Kyeongryong Lee, Yeongpil Cho, and Yunheung Paek</span><br>
+  <span style="font-size: 13px;">ACM Conference on Computer and Communications Security (**CCS**) 2025</span><br>
 - **KVSEV: A Secure In-Memmory Key-Value Store with Secure Encrypted Virtualization**
   _**Junseung You**_,Kyeongryong Lee,Hyungon Moon,Yeongpil Cho, and Yunheung Paek
   ACM Symposium on Cloud Computing 2023
