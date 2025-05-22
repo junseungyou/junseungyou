@@ -13,7 +13,7 @@ I'm a Ph.D. student at the [Security Optimization Lab (SOR Lab)](http://sor.snu.
 
 For collaboration inquiries or more information about my research, please feel free to reach out to me at jsyou@sor.snu.ac.kr. You can find my CV [here]().
 
-<div style="max-width=600px;">
+<p style="max-width=600px; world-wrap: break-word;">
 Publications
 ------
 - <span style="font-size: 16px;">**BASTAG: Byte-level Access Control on Shared Memory using ARM Memory Tagging Extension (to appear)**</span><br>
@@ -33,7 +33,7 @@ Publications
 - **SBGen: A Framework to Efficiently Supply Runtime Information for a Learning-based HIDS for Multiple Virtual Machines**
   Jiwon Seo,Inyoung Bang,_**Junseung You**_,Yeongil Cho, and Yunheung Paek
   IEEE Access
-</div>
+</p>
 
 
 Education
